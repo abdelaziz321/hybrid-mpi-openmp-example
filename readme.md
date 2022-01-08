@@ -4,3 +4,7 @@
 mpic++ main.cpp -o main -fopenmp
 mpirun -np 5 ./main 
 ```
+
+### screenshot
+
+![screenshot](./output.png)
